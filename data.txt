@@ -1,0 +1,15 @@
+What is machine learning?
+Machine learning (ML) is a branch of 
+ and computer science that focuses on the using data and algorithms to enable AI to imitate the way that humans learn, gradually improving its accuracy.
+How does machine learning work?
+ (link resides outside ibm.com) breaks out the learning system of a machine learning algorithm into three main parts.
+A Decision Process: In general, machine learning algorithms are used to make a prediction or classification. Based on some input data, which can be labeled or unlabeled, your algorithm will produce an estimate about a pattern in the data.
+An Error Function: An error function evaluates the prediction of the model. If there are known examples, an error function can make a comparison to assess the accuracy of the model.
+A Model Optimization Process: If the model can fit better to the data points in the training set, then weights are adjusted to reduce the discrepancy between the known example and the model estimate. The algorithm will repeat this iterative “evaluate and optimize” process, updating weights autonomously until a threshold of accuracy has been met.
+Ebook
+Unlock competitive advantage with generative AI + ML
+Explore the benefits of generative AI and ML and learn how to confidently incorporate these technologies into your business.
+Related content
+Register for the white paper on AI governance
+Machine learning versus deep learning versus neural networks
+Since deep learning and machine learning tend to be used interchangeably, it’s worth noting the nuances between the two. Machine learning, deep learning, and neural networks are all sub-fields of artificial intelligence. However, neural networks is actually a sub-field of machine learning, and deep learning is a sub-field of neural networks.
